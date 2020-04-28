@@ -1,0 +1,10 @@
++ popper.js@1.16.1
++ jquery@1.9.1
++ typescript@3.8.3
+added 3 packages from 4 contributors and audited 931768 packages in 11.16s
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+found 2 vulnerabilities (1 moderate, 1 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
