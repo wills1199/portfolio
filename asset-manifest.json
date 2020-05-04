@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1491149f.chunk.css",
-    "main.js": "/portfolio/static/js/main.e4d64484.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e4d64484.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.595d4b43.chunk.css",
+    "main.js": "/portfolio/static/js/main.4f611040.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4f611040.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b74fa77e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b74fa77e.js.map",
-    "static/js/2.82418748.chunk.js": "/portfolio/static/js/2.82418748.chunk.js",
-    "static/js/2.82418748.chunk.js.map": "/portfolio/static/js/2.82418748.chunk.js.map",
+    "static/js/2.307eb329.chunk.js": "/portfolio/static/js/2.307eb329.chunk.js",
+    "static/js/2.307eb329.chunk.js.map": "/portfolio/static/js/2.307eb329.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.e0ba832adad4faecb25044235cc807eb.js": "/portfolio/precache-manifest.e0ba832adad4faecb25044235cc807eb.js",
+    "precache-manifest.a2d71c707500fcdc87b35659fc9f49fd.js": "/portfolio/precache-manifest.a2d71c707500fcdc87b35659fc9f49fd.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.1491149f.chunk.css.map": "/portfolio/static/css/main.1491149f.chunk.css.map",
-    "static/js/2.82418748.chunk.js.LICENSE.txt": "/portfolio/static/js/2.82418748.chunk.js.LICENSE.txt",
+    "static/css/main.595d4b43.chunk.css.map": "/portfolio/static/css/main.595d4b43.chunk.css.map",
+    "static/js/2.307eb329.chunk.js.LICENSE.txt": "/portfolio/static/js/2.307eb329.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/portfolio/static/media/0.c82afa66.jpg",
     "static/media/Shareaoke.png": "/portfolio/static/media/Shareaoke.fe9ad8fc.png",
     "static/media/backend.png": "/portfolio/static/media/backend.a6c4a573.png",
     "static/media/front-end.png": "/portfolio/static/media/front-end.238dad29.png",
+    "static/media/king-cake.png": "/portfolio/static/media/king-cake.2fe4cc3e.png",
     "static/media/me-illu.png": "/portfolio/static/media/me-illu.995d290d.png",
     "static/media/other.png": "/portfolio/static/media/other.8d4ac6dd.png",
     "static/media/spotlotproject.png": "/portfolio/static/media/spotlotproject.f6868c7e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b74fa77e.js",
-    "static/js/2.82418748.chunk.js",
-    "static/css/main.1491149f.chunk.css",
-    "static/js/main.e4d64484.chunk.js"
+    "static/js/2.307eb329.chunk.js",
+    "static/css/main.595d4b43.chunk.css",
+    "static/js/main.4f611040.chunk.js"
   ]
 }
